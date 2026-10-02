@@ -1,3 +1,7 @@
+[![Revised dissertation DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23105075.svg)](https://doi.org/10.5281/zenodo.23105075)
+
+Revised dissertation DOI: [10.5281/zenodo.23105075](https://doi.org/10.5281/zenodo.23105075). This DOI identifies the dissertation’s Zenodo record, not this repository.
+
 # DarkStar — Cosmic Recycling Research
 
 **Author:** Scott Hunter Hughes “DarkStar Aurora Shockwave”  
